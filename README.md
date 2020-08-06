@@ -1,4 +1,4 @@
-### Hi there, I'm Daniel - aka lechnerio[https://www.lechner.io] 👋
+### Hi there, I'm Daniel - aka [lechnerio][website] 👋
 
 ## I'm a developer, pixel enthusiast and part time cs student
 
@@ -11,8 +11,10 @@
 [<img align="left" alt="twitter @lechnerio" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 [<img align="left" alt="instagram @lechnerio" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" alt="youtube @lechnerio" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
-[<img align="left" alt="linkedin @lechnerio" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][youtube]
-[<img align="left" alt="xing @Daniel Lechner" width="22px" src="https://simpleicons.org/icons/xing.svg" />][youtube]
+[<img align="left" alt="linkedin @lechnerio" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="xing @Daniel Lechner" width="22px" src="https://simpleicons.org/icons/xing.svg" />][xing]
+
+<br/>
 
 ### Languages and Tools: 
 
