@@ -8,9 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="twitter @lechnerio" width="22px" src="https://simpleicons.org/icons/twitter.svg" />] @lechnerio[twitter]
-[<img align="left" alt="instagram @lechnerio" width="22px" src="https://simpleicons.org/icons/instagram.svg" />] @lechnerio[instagram]
-[<img align="left" alt="youtube @lechnerio" width="22px" src="https://simpleicons.org/icons/instagram.svg" />] lechnerio[youtube]
+[<img align="left" alt="twitter @lechnerio" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" alt="instagram @lechnerio" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" alt="youtube @lechnerio" width="22px" src="https://simpleicons.org/icons/youtube.svg" />][youtube]
+[<img align="left" alt="linkedin @lechnerio" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][youtube]
+[<img align="left" alt="xing @Daniel Lechner" width="22px" src="https://simpleicons.org/icons/xing.svg" />][youtube]
 
 ### Languages and Tools: 
 
@@ -20,3 +22,5 @@ Visual Studio Code, HTML, CSS, Sass/Less, JavaScript, Node.js, Flutter, SQL, MyS
 [twitter]: https://www.twitter.com/lechnerio
 [instagram]: https://www.instagram.com/lechnerio/
 [youtube]: https://www.youtube.com/channel/UCEf9mDgqO28ps56dQf3TABA
+[linkedin]: https://www.linkedin.com/in/lechnerio/
+[xing]: https://www.xing.com/profile/Daniel_Lechner13/cv
