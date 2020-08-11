@@ -2,6 +2,7 @@
 
 ## I'm a developer, pixel enthusiast and part time cs student
 
+- 🍳 Love to cook, code and game. that screams to be an side project, does it?
 - 🛒 I'm currently working on a small app for shopping lovers
 - 📋 I work as a full stack developer 
 - 🎬 2020 Goals: make youtube videos again
