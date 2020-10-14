@@ -10,7 +10,7 @@
 
 being a developer is a narrow line between genius and madness.
 
-<img width="280" src="https://media4.giphy.com/media/JIFpJe9dhLZxl1fZ0W/giphy.gif"><img width="280" src="https://media3.giphy.com/media/HHM9ED63JbagxzhDQw/giphy.gif">
+<img width="280" src="https://media4.giphy.com/media/JIFpJe9dhLZxl1fZ0W/giphy.gif"> <img width="280" src="https://media3.giphy.com/media/HHM9ED63JbagxzhDQw/giphy.gif">
 
 ### Currently Playing during coding ♬
 
